@@ -1,0 +1,106 @@
+String methods:
+toUpperCase()
+toLowerCase()
+substr()
+substring()
+split()
+trim()
+includes()
+replace()
+charAt()
+charCodeAt()
+indexOf()
+lastIndexOf()
+concat()
+startsWith()
+endsWith()
+search()
+match()
+repeat()
+parseInt()
+parseFloat()
+Number()
++'10'
+-
+-
+Math methods:
+random()
+ceil()
+floor
+round()
+min()
+max()
+-
+-
+Array methods:
+toString()
+join()
+concat()
+splice()
+slice()
+indexOf()
+lastIndexOf()
+forEach()
+map()
+filter()
+reduce()
+some()
+every()
+flat()
+find()
+findIndex()
+sort()
+split()
+fill()
+includes()
+isArray()
+push()
+pop()
+unshift()
+shift()
+reverse()
+from()
+-
+-
+Object methods:
+Object.keys()
+Object.values()
+Object.entries()
+Object.assign({}, obj)
+Object.groupBy()
+ 
+Also:
+how to add a key / value to an object
+How to iterate in an object
+How to convert an object into an array
+-
+-
+Set methods: 
+Set.prototype.add()
+Set.prototype.clear()
+Set.prototype.delete()
+Set.prototype.difference()
+Set.prototype.entries()
+Set.prototype.forEach()
+Set.prototype.has()
+Set.prototype.intersection()
+Set.prototype.isDisjointFrom()
+Set.prototype.isSubsetOf()
+Set.prototype.isSupersetOf()
+Set.prototype.keys()
+Set.prototype.symmetricDifference()
+Set.prototype.union()
+Set.prototype.values()
+-
+-
+Map methods: 
+Map.prototype.clear()
+Map.prototype.delete()
+Map.prototype.entries()
+Map.prototype.forEach()
+Map.prototype.get()
+Map.groupBy()
+Map.prototype.has()
+Map.prototype.keys()
+Map.prototype.set()
+Map.prototype.values()
